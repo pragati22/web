@@ -1,0 +1,20 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.logo{
+    width: 4rem;
+}
+
+.color {
+    background: #3facff !important
+}
+
+.colort{
+    color: #3facff !important;
+}
+
+.colorR{
+    border: #3facff !important;
+}
